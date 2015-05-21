@@ -1,2 +1,2 @@
-# Game-Application
-Blackjack, Poker &amp; War Games
+# Blackjack Application
+Blackjack game in Java 
